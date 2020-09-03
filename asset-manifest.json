@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.2dd59a98.chunk.css",
-    "main.js": "/static/js/main.9db1dd7e.chunk.js",
-    "main.js.map": "/static/js/main.9db1dd7e.chunk.js.map",
+    "main.js": "/static/js/main.66d87f8d.chunk.js",
+    "main.js.map": "/static/js/main.66d87f8d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.a2c56430.chunk.css": "/static/css/2.a2c56430.chunk.css",
-    "static/js/2.0f5d8829.chunk.js": "/static/js/2.0f5d8829.chunk.js",
-    "static/js/2.0f5d8829.chunk.js.map": "/static/js/2.0f5d8829.chunk.js.map",
+    "static/js/2.ca8b41f9.chunk.js": "/static/js/2.ca8b41f9.chunk.js",
+    "static/js/2.ca8b41f9.chunk.js.map": "/static/js/2.ca8b41f9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4e5f399fc5100e91b3439d8e06bc5345.js": "/precache-manifest.4e5f399fc5100e91b3439d8e06bc5345.js",
+    "precache-manifest.336404475694f6075b48cf289392352f.js": "/precache-manifest.336404475694f6075b48cf289392352f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a2c56430.chunk.css.map": "/static/css/2.a2c56430.chunk.css.map",
     "static/css/main.2dd59a98.chunk.css.map": "/static/css/main.2dd59a98.chunk.css.map",
-    "static/js/2.0f5d8829.chunk.js.LICENSE.txt": "/static/js/2.0f5d8829.chunk.js.LICENSE.txt",
+    "static/js/2.ca8b41f9.chunk.js.LICENSE.txt": "/static/js/2.ca8b41f9.chunk.js.LICENSE.txt",
     "static/media/Resume.pdf": "/static/media/Resume.41224fb5.pdf",
     "static/media/baymax.png": "/static/media/baymax.cb8c81c3.png",
     "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
     "static/media/gmail_logo.png": "/static/media/gmail_logo.8ac3b5d4.png",
     "static/media/maps_logo.jpg": "/static/media/maps_logo.46602ed9.jpg",
+    "static/media/me.jpg": "/static/media/me.3d08638d.jpg",
     "static/media/sankalan_logo.jpg": "/static/media/sankalan_logo.b010f364.jpg",
     "static/media/sgtb_khalsa_logo.jpg": "/static/media/sgtb_khalsa_logo.b7c4d57b.jpg",
     "static/media/umeed_logo.png": "/static/media/umeed_logo.89aa3961.png"
@@ -26,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.a2c56430.chunk.css",
-    "static/js/2.0f5d8829.chunk.js",
+    "static/js/2.ca8b41f9.chunk.js",
     "static/css/main.2dd59a98.chunk.css",
-    "static/js/main.9db1dd7e.chunk.js"
+    "static/js/main.66d87f8d.chunk.js"
   ]
 }
