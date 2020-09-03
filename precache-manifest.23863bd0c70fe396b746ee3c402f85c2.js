@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f92337cac692f9af6c1c5a7c05b8ea0",
+    "revision": "5ee956f01320fdccdc67d238bc7dc180",
     "url": "/Portfolio-Website/index.html"
   },
   {
-    "revision": "722c153a91e904b926a9",
+    "revision": "f5e9c9a12e194310da5e",
     "url": "/Portfolio-Website/static/css/2.eb3a0a2e.chunk.css"
   },
   {
-    "revision": "2dac5a5fd55efe120048",
+    "revision": "27ea94b465b4c8c18eef",
     "url": "/Portfolio-Website/static/css/main.10ee23ba.chunk.css"
   },
   {
-    "revision": "722c153a91e904b926a9",
-    "url": "/Portfolio-Website/static/js/2.c9a8f8bf.chunk.js"
+    "revision": "f5e9c9a12e194310da5e",
+    "url": "/Portfolio-Website/static/js/2.cb400f35.chunk.js"
   },
   {
     "revision": "0c361a26a3962dfc56455d709749d13c",
-    "url": "/Portfolio-Website/static/js/2.c9a8f8bf.chunk.js.LICENSE.txt"
+    "url": "/Portfolio-Website/static/js/2.cb400f35.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2dac5a5fd55efe120048",
-    "url": "/Portfolio-Website/static/js/main.f58e539f.chunk.js"
+    "revision": "27ea94b465b4c8c18eef",
+    "url": "/Portfolio-Website/static/js/main.cbdb74e0.chunk.js"
   },
   {
     "revision": "b8c7e0cb4fb17c167de8",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cbc513d50eac98c5edb4a0be559cb6de",
     "url": "/Portfolio-Website/static/media/Resume.cbc513d5.pdf"
+  },
+  {
+    "revision": "cb8c81c35711d584906f8e4281cf864b",
+    "url": "/Portfolio-Website/static/media/baymax.cb8c81c3.png"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
@@ -96,24 +100,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio-Website/static/media/instagram_card.12bf03ff.png"
   },
   {
-    "revision": "b1c58ee19d1e2c38b29ae86f3174f2e4",
-    "url": "/Portfolio-Website/static/media/instagram_icon.b1c58ee1.svg"
+    "revision": "4a8c23476a7c20c5bee2a752a6f96e9e",
+    "url": "/Portfolio-Website/static/media/instagram_icon.4a8c2347.png"
   },
   {
     "revision": "09a8a104e472c332d8d8581ed2327bc2",
     "url": "/Portfolio-Website/static/media/linkedin_card.09a8a104.png"
   },
   {
-    "revision": "4b475fb3f54b3e35daa04295ec48df4c",
-    "url": "/Portfolio-Website/static/media/linkedin_logo.4b475fb3.svg"
-  },
-  {
     "revision": "51986d03a5d4fdef0f202a62c948386b",
     "url": "/Portfolio-Website/static/media/maps_logo.51986d03.jpg"
-  },
-  {
-    "revision": "d287d24fa5b2b302d2e7e1bdf6f9734b",
-    "url": "/Portfolio-Website/static/media/me.d287d24f.jpg"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",

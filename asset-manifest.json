@@ -1,31 +1,30 @@
 {
   "files": {
     "main.css": "/Portfolio-Website/static/css/main.10ee23ba.chunk.css",
-    "main.js": "/Portfolio-Website/static/js/main.f58e539f.chunk.js",
-    "main.js.map": "/Portfolio-Website/static/js/main.f58e539f.chunk.js.map",
+    "main.js": "/Portfolio-Website/static/js/main.cbdb74e0.chunk.js",
+    "main.js.map": "/Portfolio-Website/static/js/main.cbdb74e0.chunk.js.map",
     "runtime-main.js": "/Portfolio-Website/static/js/runtime-main.5552b3a3.js",
     "runtime-main.js.map": "/Portfolio-Website/static/js/runtime-main.5552b3a3.js.map",
     "static/css/2.eb3a0a2e.chunk.css": "/Portfolio-Website/static/css/2.eb3a0a2e.chunk.css",
-    "static/js/2.c9a8f8bf.chunk.js": "/Portfolio-Website/static/js/2.c9a8f8bf.chunk.js",
-    "static/js/2.c9a8f8bf.chunk.js.map": "/Portfolio-Website/static/js/2.c9a8f8bf.chunk.js.map",
+    "static/js/2.cb400f35.chunk.js": "/Portfolio-Website/static/js/2.cb400f35.chunk.js",
+    "static/js/2.cb400f35.chunk.js.map": "/Portfolio-Website/static/js/2.cb400f35.chunk.js.map",
     "index.html": "/Portfolio-Website/index.html",
-    "precache-manifest.8da1d9b0808c5f23287bf6074957a29a.js": "/Portfolio-Website/precache-manifest.8da1d9b0808c5f23287bf6074957a29a.js",
+    "precache-manifest.23863bd0c70fe396b746ee3c402f85c2.js": "/Portfolio-Website/precache-manifest.23863bd0c70fe396b746ee3c402f85c2.js",
     "service-worker.js": "/Portfolio-Website/service-worker.js",
     "static/css/2.eb3a0a2e.chunk.css.map": "/Portfolio-Website/static/css/2.eb3a0a2e.chunk.css.map",
     "static/css/main.10ee23ba.chunk.css.map": "/Portfolio-Website/static/css/main.10ee23ba.chunk.css.map",
-    "static/js/2.c9a8f8bf.chunk.js.LICENSE.txt": "/Portfolio-Website/static/js/2.c9a8f8bf.chunk.js.LICENSE.txt",
+    "static/js/2.cb400f35.chunk.js.LICENSE.txt": "/Portfolio-Website/static/js/2.cb400f35.chunk.js.LICENSE.txt",
     "static/media/MOS_PowerPoint.png": "/Portfolio-Website/static/media/MOS_PowerPoint.b6908c84.png",
     "static/media/Resume.pdf": "/Portfolio-Website/static/media/Resume.cbc513d5.pdf",
+    "static/media/baymax.png": "/Portfolio-Website/static/media/baymax.cb8c81c3.png",
     "static/media/semantic.min.css": "/Portfolio-Website/static/media/outline-icons.ef60a4f6.woff",
     "static/media/facebook_card.png": "/Portfolio-Website/static/media/facebook_card.d508f80f.png",
     "static/media/github_profile_card.png": "/Portfolio-Website/static/media/github_profile_card.7402c47b.png",
     "static/media/gmail_logo.png": "/Portfolio-Website/static/media/gmail_logo.8ac3b5d4.png",
     "static/media/instagram_card.png": "/Portfolio-Website/static/media/instagram_card.12bf03ff.png",
-    "static/media/instagram_icon.svg": "/Portfolio-Website/static/media/instagram_icon.b1c58ee1.svg",
+    "static/media/instagram_icon.png": "/Portfolio-Website/static/media/instagram_icon.4a8c2347.png",
     "static/media/linkedin_card.png": "/Portfolio-Website/static/media/linkedin_card.09a8a104.png",
-    "static/media/linkedin_logo.svg": "/Portfolio-Website/static/media/linkedin_logo.4b475fb3.svg",
     "static/media/maps_logo.jpg": "/Portfolio-Website/static/media/maps_logo.51986d03.jpg",
-    "static/media/me.jpg": "/Portfolio-Website/static/media/me.d287d24f.jpg",
     "static/media/sankalan_logo.jpg": "/Portfolio-Website/static/media/sankalan_logo.7df18c72.jpg",
     "static/media/sgtb_khalsa_logo.png": "/Portfolio-Website/static/media/sgtb_khalsa_logo.5e19c271.png",
     "static/media/umeed_logo.png": "/Portfolio-Website/static/media/umeed_logo.89aa3961.png"
@@ -33,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.5552b3a3.js",
     "static/css/2.eb3a0a2e.chunk.css",
-    "static/js/2.c9a8f8bf.chunk.js",
+    "static/js/2.cb400f35.chunk.js",
     "static/css/main.10ee23ba.chunk.css",
-    "static/js/main.f58e539f.chunk.js"
+    "static/js/main.cbdb74e0.chunk.js"
   ]
 }
