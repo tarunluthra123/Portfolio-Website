@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ee956f01320fdccdc67d238bc7dc180",
+    "revision": "d26b41fb8d69fccc46f957b586e5e24d",
     "url": "/Portfolio-Website/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio-Website/static/css/2.eb3a0a2e.chunk.css"
   },
   {
-    "revision": "27ea94b465b4c8c18eef",
+    "revision": "84252f27abbcc070167b",
     "url": "/Portfolio-Website/static/css/main.10ee23ba.chunk.css"
   },
   {
@@ -20,16 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio-Website/static/js/2.cb400f35.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "27ea94b465b4c8c18eef",
-    "url": "/Portfolio-Website/static/js/main.cbdb74e0.chunk.js"
+    "revision": "84252f27abbcc070167b",
+    "url": "/Portfolio-Website/static/js/main.97b43fb3.chunk.js"
   },
   {
     "revision": "b8c7e0cb4fb17c167de8",
     "url": "/Portfolio-Website/static/js/runtime-main.5552b3a3.js"
-  },
-  {
-    "revision": "b6908c8488b972a0ae148f3ae64285a0",
-    "url": "/Portfolio-Website/static/media/MOS_PowerPoint.b6908c84.png"
   },
   {
     "revision": "cbc513d50eac98c5edb4a0be559cb6de",
@@ -60,16 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio-Website/static/media/brand-icons.e8c322de.woff2"
   },
   {
-    "revision": "d508f80f98117261a42737d372777d6b",
-    "url": "/Portfolio-Website/static/media/facebook_card.d508f80f.png"
-  },
-  {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
     "url": "/Portfolio-Website/static/media/flags.9c74e172.png"
-  },
-  {
-    "revision": "7402c47b8d28ed56f9e96c7af3d67127",
-    "url": "/Portfolio-Website/static/media/github_profile_card.7402c47b.png"
   },
   {
     "revision": "8ac3b5d4477a35d7c4e9f75fc077358d",
@@ -96,20 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio-Website/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "12bf03ff806a239d572d499cb3eec62e",
-    "url": "/Portfolio-Website/static/media/instagram_card.12bf03ff.png"
-  },
-  {
-    "revision": "4a8c23476a7c20c5bee2a752a6f96e9e",
-    "url": "/Portfolio-Website/static/media/instagram_icon.4a8c2347.png"
-  },
-  {
-    "revision": "09a8a104e472c332d8d8581ed2327bc2",
-    "url": "/Portfolio-Website/static/media/linkedin_card.09a8a104.png"
-  },
-  {
-    "revision": "51986d03a5d4fdef0f202a62c948386b",
-    "url": "/Portfolio-Website/static/media/maps_logo.51986d03.jpg"
+    "revision": "46602ed92fa2edd98250e9798e0b27ae",
+    "url": "/Portfolio-Website/static/media/maps_logo.46602ed9.jpg"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
@@ -132,12 +108,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio-Website/static/media/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "7df18c72c85d42530ff19d81ca315aec",
-    "url": "/Portfolio-Website/static/media/sankalan_logo.7df18c72.jpg"
+    "revision": "b010f364e4beefb0694a79801bd87b0e",
+    "url": "/Portfolio-Website/static/media/sankalan_logo.b010f364.jpg"
   },
   {
-    "revision": "5e19c2716e0b0e974cf239cfca0700c5",
-    "url": "/Portfolio-Website/static/media/sgtb_khalsa_logo.5e19c271.png"
+    "revision": "b7c4d57b519342b34eab27d57e6114ca",
+    "url": "/Portfolio-Website/static/media/sgtb_khalsa_logo.b7c4d57b.jpg"
   },
   {
     "revision": "89aa396100676c79046a868b3f2de756",
