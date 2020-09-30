@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.51adaee3.chunk.css",
-    "main.js": "/static/js/main.79d1ea90.chunk.js",
-    "main.js.map": "/static/js/main.79d1ea90.chunk.js.map",
+    "main.css": "/static/css/main.001bf75c.chunk.css",
+    "main.js": "/static/js/main.1c43cad4.chunk.js",
+    "main.js.map": "/static/js/main.1c43cad4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.a2c56430.chunk.css": "/static/css/2.a2c56430.chunk.css",
-    "static/js/2.025a36b7.chunk.js": "/static/js/2.025a36b7.chunk.js",
-    "static/js/2.025a36b7.chunk.js.map": "/static/js/2.025a36b7.chunk.js.map",
+    "static/js/2.eadbaf81.chunk.js": "/static/js/2.eadbaf81.chunk.js",
+    "static/js/2.eadbaf81.chunk.js.map": "/static/js/2.eadbaf81.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a6820adc1787e37c90fd3549332a154d.js": "/precache-manifest.a6820adc1787e37c90fd3549332a154d.js",
+    "precache-manifest.c3a880a85641d098b6c9cfbbc1c21549.js": "/precache-manifest.c3a880a85641d098b6c9cfbbc1c21549.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a2c56430.chunk.css.map": "/static/css/2.a2c56430.chunk.css.map",
-    "static/css/main.51adaee3.chunk.css.map": "/static/css/main.51adaee3.chunk.css.map",
-    "static/js/2.025a36b7.chunk.js.LICENSE.txt": "/static/js/2.025a36b7.chunk.js.LICENSE.txt",
+    "static/css/main.001bf75c.chunk.css.map": "/static/css/main.001bf75c.chunk.css.map",
+    "static/js/2.eadbaf81.chunk.js.LICENSE.txt": "/static/js/2.eadbaf81.chunk.js.LICENSE.txt",
     "static/media/Resume.pdf": "/static/media/Resume.41224fb5.pdf",
     "static/media/baymax.png": "/static/media/baymax.cb8c81c3.png",
     "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
     "static/media/gmail_logo.png": "/static/media/gmail_logo.8ac3b5d4.png",
+    "static/media/kollab_space_logo.png": "/static/media/kollab_space_logo.692b6244.png",
     "static/media/maps_logo.jpg": "/static/media/maps_logo.46602ed9.jpg",
     "static/media/me.jpg": "/static/media/me.cc7edb06.jpg",
     "static/media/sankalan_logo.jpg": "/static/media/sankalan_logo.b010f364.jpg",
@@ -27,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.a2c56430.chunk.css",
-    "static/js/2.025a36b7.chunk.js",
-    "static/css/main.51adaee3.chunk.css",
-    "static/js/main.79d1ea90.chunk.js"
+    "static/js/2.eadbaf81.chunk.js",
+    "static/css/main.001bf75c.chunk.css",
+    "static/js/main.1c43cad4.chunk.js"
   ]
 }

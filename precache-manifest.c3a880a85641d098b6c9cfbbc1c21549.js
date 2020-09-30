@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ad55ba9fc8b205a52fe6335a6a26578",
+    "revision": "3376530aee90996628c7504190f3ac94",
     "url": "/index.html"
   },
   {
-    "revision": "2e4173ba3cc7ecae6f50",
+    "revision": "e17d6a325e12f1c2e759",
     "url": "/static/css/2.a2c56430.chunk.css"
   },
   {
-    "revision": "a57bef64b373d96dcf42",
-    "url": "/static/css/main.51adaee3.chunk.css"
+    "revision": "d55104ec112063b1e3ad",
+    "url": "/static/css/main.001bf75c.chunk.css"
   },
   {
-    "revision": "2e4173ba3cc7ecae6f50",
-    "url": "/static/js/2.025a36b7.chunk.js"
+    "revision": "e17d6a325e12f1c2e759",
+    "url": "/static/js/2.eadbaf81.chunk.js"
   },
   {
     "revision": "0c361a26a3962dfc56455d709749d13c",
-    "url": "/static/js/2.025a36b7.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.eadbaf81.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a57bef64b373d96dcf42",
-    "url": "/static/js/main.79d1ea90.chunk.js"
+    "revision": "d55104ec112063b1e3ad",
+    "url": "/static/js/main.1c43cad4.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
     "url": "/static/media/icons.faff9214.woff"
+  },
+  {
+    "revision": "692b6244624c1de7ae0d41d75125890a",
+    "url": "/static/media/kollab_space_logo.692b6244.png"
   },
   {
     "revision": "46602ed92fa2edd98250e9798e0b27ae",
