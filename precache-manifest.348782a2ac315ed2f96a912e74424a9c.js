@@ -1,39 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf132ef1b28f3a07bd8ada58be731aa4",
+    "revision": "780329940d7b834ef650a4d1f8fe56c9",
     "url": "/index.html"
   },
   {
-    "revision": "5300a28b03cb59e77dfd",
-    "url": "/static/css/2.a2c56430.chunk.css"
+    "revision": "29aea99d3f62d303862c",
+    "url": "/static/css/2.fc3cdb88.chunk.css"
   },
   {
-    "revision": "51c5b10e450088e6d1d4",
-    "url": "/static/css/main.001bf75c.chunk.css"
+    "revision": "4ac2642b2d16ed92d91d",
+    "url": "/static/css/main.1a1ec64d.chunk.css"
   },
   {
-    "revision": "5300a28b03cb59e77dfd",
-    "url": "/static/js/2.75a60533.chunk.js"
+    "revision": "29aea99d3f62d303862c",
+    "url": "/static/js/2.7ae91df7.chunk.js"
   },
   {
-    "revision": "c1adb6ef1725aa882efc8e0b341ed4e8",
-    "url": "/static/js/2.75a60533.chunk.js.LICENSE.txt"
+    "revision": "775a9444e00661c8aa293cec09354f0b",
+    "url": "/static/js/2.7ae91df7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "51c5b10e450088e6d1d4",
-    "url": "/static/js/main.8191fcb1.chunk.js"
+    "revision": "4ac2642b2d16ed92d91d",
+    "url": "/static/js/main.0ae79aa5.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
     "url": "/static/js/runtime-main.19ccc7f6.js"
   },
   {
-    "revision": "88421409962b79c9e6793a5ebde56806",
-    "url": "/static/media/Resume.88421409.pdf"
-  },
-  {
-    "revision": "cb8c81c35711d584906f8e4281cf864b",
-    "url": "/static/media/baymax.cb8c81c3.png"
+    "revision": "4c9dcbe4f18cd92202b573d337c33ffe",
+    "url": "/static/media/Tambola_Screenshot.4c9dcbe4.png"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
@@ -60,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/flags.9c74e172.png"
   },
   {
+    "revision": "12509c7248dbce040831e6df3af4c1b3",
+    "url": "/static/media/github_explorer_screenshot.12509c72.png"
+  },
+  {
     "revision": "8ac3b5d4477a35d7c4e9f75fc077358d",
     "url": "/static/media/gmail_logo.8ac3b5d4.png"
   },
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "692b6244624c1de7ae0d41d75125890a",
-    "url": "/static/media/kollab_space_logo.692b6244.png"
+    "revision": "7b7c75f8244b32c2344fff531f69b8e4",
+    "url": "/static/media/kollab_space_gif.7b7c75f8.gif"
   },
   {
     "revision": "46602ed92fa2edd98250e9798e0b27ae",
@@ -94,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cc7edb060ff6c1d54770a69d3e7bffe9",
     "url": "/static/media/me.cc7edb06.jpg"
+  },
+  {
+    "revision": "ccb2d03b4d604c84f1b072fa693d248f",
+    "url": "/static/media/movie_db_react_gif.ccb2d03b.gif"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
@@ -122,6 +126,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b7c4d57b519342b34eab27d57e6114ca",
     "url": "/static/media/sgtb_khalsa_logo.b7c4d57b.jpg"
+  },
+  {
+    "revision": "05fd6abfffeef47ad0108c8077ceb5f4",
+    "url": "/static/media/shopping_website_gif.05fd6abf.gif"
+  },
+  {
+    "revision": "58ab4877467d1073b3d6dc5e02222a0c",
+    "url": "/static/media/typing_speed_test_gif.58ab4877.gif"
   },
   {
     "revision": "89aa396100676c79046a868b3f2de756",
